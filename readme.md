@@ -8,4 +8,4 @@ This is a simple CRUD (Create, Read, Update, Delete) app built using TypeScript 
 2. Set up your PostgreSQL database and update connection details in `src/app.ts`.
 3. Run the app using `npm run dev`.
 
-For more details, refer to this article:
+For more details, refer to this [article] (https://geekiebarbs.hashnode.dev/build-a-crud-api-with-typescript-nodejs-express-and-postgresql)
